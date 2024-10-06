@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "691647630723",
+    "project_id": "island-listings-f200iy",
+    "storage_bucket": "island-listings-f200iy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691647630723:android:8d266fa9d54d635762fab6",
+        "android_client_info": {
+          "package_name": "com.mycompany.islandlistings"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB66eTb3UBjf0q44kDSZzJXEXUSqVXVVIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
